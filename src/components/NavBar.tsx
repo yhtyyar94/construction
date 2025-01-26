@@ -174,7 +174,7 @@ const NavBar = () => {
         backgroundSize={{ base: "contain", lg: "cover" }}
         backgroundRepeat={"no-repeat"}
         w={"100%"}
-        h={"650px"}
+        h={{ base: "300px", md: "650px" }}
         mt={-2}
         p={0}
       ></Stack>
