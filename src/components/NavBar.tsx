@@ -9,10 +9,8 @@ import {
   DrawerBody,
   DrawerCloseTrigger,
   DrawerContent,
-  DrawerFooter,
   DrawerHeader,
   DrawerRoot,
-  DrawerTitle,
   DrawerTrigger,
 } from "@/components/ui/drawer";
 

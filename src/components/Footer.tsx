@@ -1,10 +1,8 @@
-import React, { useEffect, useRef } from "react";
+import React from "react";
 import { Box, Button, Stack, Text, VStack } from "@chakra-ui/react";
 import Link from "next/link";
 
 const Footer = () => {
-  const ref = useRef(null);
-  useEffect(() => {}, []);
   return (
     <Stack bg={"rgba(103, 146, 196, 1)"} color={"white"}>
       <Stack
